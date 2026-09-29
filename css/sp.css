@@ -109,7 +109,7 @@ main{
   transition: ackground-color 0.3s;
 }
 .header.is-open{
-  background-color: #f68d47
+  background-color: #45BEC5
 }
 .header.is-open .nav{
   opacity: 1;
@@ -121,7 +121,7 @@ main{
 .header .nav{
   opacity: 0;
   visibility: hidden;
-  background-color: #f68d47;
+  background-color: #45BEC5;
   width: 100%;
   position: fixed;
   top: 56px;
@@ -141,7 +141,7 @@ main{
   display: block;
 }
 .header .nav-open{
-  background-color: #f68d47;
+  background-color: #45BEC5;
   width: 56px;
   height: 56px;
   position: absolute;
@@ -405,7 +405,7 @@ margin-top: -35px;
   padding: 1px 8px;
 }
 .paging-area .page-numbers{
-  border: 1px solid #f68d47;
+  border: 1px solid #45BEC5;
 }
 .paging-area .page-numbers + .page-numbers{
   margin-left: 6px;
