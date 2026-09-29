@@ -246,11 +246,11 @@ h6 {
 .mv-block .title{
   position: absolute;
   left: 100px;
-  bottom: 200px;
+  bottom: 20%;
   z-index: 1;
 }
 .mv-block .title .en{
-  font-size: 120px;
+  font-size: 100px;
   font-weight: bold;
   font-family: 'Roboto';
   letter-spacing: 0.1em;
@@ -263,7 +263,7 @@ h6 {
   display: block;
   color: #222222;
   letter-spacing: 0.15em;
-  margin-top: 40px;
+  margin-top: 30px;
 }
 .mv-block .image{
   width: 100%;
